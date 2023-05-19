@@ -20,30 +20,30 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+title: Health, Healing, and Gender in US History
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: "a collection for US Women's History to 1865, organized by the Chabraja Center for Historical Studies at Northwestern University" 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This collection includes a series of manuals, books, and lectures on the history and practices of midwives and female physicians, between 1700 and 1865"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Susan Pearson, Emily Lyon
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: demo-metadata 
+metadata: us-womenshistory-1865
 
 ##########
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "Chabraja Center for Historical Studies (CCHS)"
+# organization-link: https://historicalstudies.northwestern.edu/
+# organization-logo-banner:
+# organization-logo-nav: 
 
 
 
