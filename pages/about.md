@@ -16,12 +16,7 @@ credits: true
 
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+This collection includes a series of manuals, books, journal and newspaper articles, photographs, prints, and lectures on the history and practices of midwives and female physicians, between roughly 1700 and 1865. Within these documents, discussions related to gender, race, and pregnancy appear, and some of these primary sources use antiquated, gendered, and racist language, especially when describing cases related to Black and enslaved women and midwives. Some sources also include in-depth descriptions of medical ailments related to pregnancy and fertility, surgical processes, and miscarriages and stillbirths. The goal of this collection is to introduce students 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
