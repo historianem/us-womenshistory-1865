@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "US Women's History to 1865" 
+title: "Midwifery in US History: to 1865" 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "Health, Healing, and Power" 
+tagline: "Health, Gender, Race, and Power" 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection includes a series of manuals, books, and lectures on the history and practices of midwives and female physicians, between 1700 and 1865. This collection is meant for the class, US Women's History to 1865 and was organized by the Chabraja Center for Historical Studies at Northwestern University"
+description: "This collection includes a series of manuals, books, journal and newspaper articles, photographs, prints, and lectures on the history and practices of midwives and female physicians, between roughly 1700 and 1865. Within these documents, discussions related to gender, race, and pregnancy appear, and some of these primary sources use antiquated, gendered, and racist language, especially when describing cases related to Black and enslaved women and midwives. Some sources also include in-depth descriptions of medical ailments related to pregnancy and fertility, surgical processes, and miscarriages and stillbirths. This collection is meant for the class, US Women's History to 1865, created and taught by Susan Pearson, and was made possible by the Chabraja Center for Historical Studies at Northwestern University."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Susan Pearson, Emily Lyon
 
