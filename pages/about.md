@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="(https://upload.wikimedia.org/wikipedia/commons/0/09/Carciature_of_a_man-midwife_as_a_split_figure_Wellcome_L0018481.jpg)" %}
+{% include feature/jumbotron.html objectid="https://upload.wikimedia.org/wikipedia/commons/0/09/Carciature_of_a_man-midwife_as_a_split_figure_Wellcome_L0018481.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
