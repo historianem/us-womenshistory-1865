@@ -19,4 +19,3 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 This collection includes a series of manuals, books, journal and newspaper articles, photographs, prints, and lectures on the history and practices of midwives and female physicians, between roughly 1700 and 1865. Within these documents, discussions related to gender, race, and pregnancy appear, and some of these primary sources use antiquated, gendered, and racist language, especially when describing cases related to Black and enslaved women and midwives. Some sources also include in-depth descriptions of medical ailments related to pregnancy and fertility, surgical processes, and miscarriages and stillbirths. The goal of this collection is to introduce students 
 
 
-{% include cb/about_the_about.md %} 
