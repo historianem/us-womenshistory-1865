@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: "Women & Medicine in US History" 
+title: "Women & Healing in US History, 1600-1865" 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: "A history of race, gender, health and power, to 1865" 
+tagline: "A history of race, gender, and power" 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A series of manuals, books, journal and newspaper articles, photographs, prints, and lectures on the history and practices of midwives and female physicians, between roughly 1700 and 1865. This collection was generated for the class, US Women's History to 1865, created and taught by Susan Pearson, and was made possible by the Chabraja Center for Historical Studies at Northwestern University."
+description: "A series of manuals, books, journal and newspaper articles, photographs, prints, and lectures on the history and practices of midwives and women physicians, between roughly 1700 and 1865. This collection was generated for the class, US Women's History to 1865, created and taught by Susan Pearson, and was made possible by the Chabraja Center for Historical Studies at Northwestern University."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Susan Pearson, Emily Lyon
 
